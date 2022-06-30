@@ -42,10 +42,16 @@
   height:60vw;
   background-color:lightgray;
 }
+#image{
+  width:100%;
+  height:23vw;
+
+}
+
 #component2{
 
   width:30%;
-  height:30vw;
+  height:50vw;
   margin-left:1.5%;
   margin-top:4%;
   background-color:white;
@@ -53,7 +59,7 @@
 #component3{
  
   width:30%;
-  height:30vw;
+  height:50vw;
   margin-left:3.5%;
   margin-top:4%;
   background-color:white;
@@ -63,7 +69,7 @@
 #component4{
   
   width:30%;
-  height:30vw;
+  height:50vw;
   margin-left:3.5%;
   margin-top:4%;
   background-color:white;
